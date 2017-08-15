@@ -3,6 +3,5 @@
 {% for post in site.posts limit: 50%}
 <li><span>{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-<li><a class="btn"  href="{{site.url}}/archive/">存档</a> →</li>
 </ul>
 </div>
