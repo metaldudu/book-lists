@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:year/:month/:title 
+permalink: /:year/:title 
 title: 读写卡片
 url: http://card.mrdu.me
 subscribe: http://www.mesule.com/feed

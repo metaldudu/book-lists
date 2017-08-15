@@ -61,7 +61,7 @@ a {
 }
 a:hover {
 /*    color: #A33B14;  */
-			color:#49c895;
+			color:#a5b069;
     text-decoration: none;
 }
 a.label:hover {
@@ -391,7 +391,7 @@ text-shadow: 0 1px 0 #fff;
 .sitename {
     font-size: 25px;
    /* font-weight: bold;*/
-    color:  #12aa7f;
+    color:  #879637;
     text-align:right;
 }
 .wrapper  {
