@@ -5,8 +5,8 @@
   <title>{{ page.title }}</title>
   <meta name="author" content="{{ site.author }}"/>
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="{{site.url}}/assets/css/effector-wide.css">
-  <link rel="stylesheet" type="text/css" href="{{site.url}}/assets/css/tricolore.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/effector-wide.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.ur l}}/assets/css/tricolore.css">
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS for {{ site.title }}" href="/feed/">
 </head>
@@ -15,10 +15,10 @@
   <div class="container">
       <h1 class="sitename">读写卡片</h1>
       <div class="nav">
-<a href="">主页</a>
-<a href="archive/">存档</a>
-<a href="about">关于</a>
-<a href="feed/">订阅</a>
+<a href="{{ site.url }}">主页</a>
+<a href="{{ site.url }}/archive/">存档</a>
+<a href="{{ site.url }}/about/">关于</a>
+<a href="{{ site.url }}/feed/">订阅</a>
 </div>
 {{ content }}
 </div>
