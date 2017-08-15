@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /:year/:title 
 title: 读写卡片
-url: http://card.mrdu.me
-subscribe: http://www.mesule.com/feed
+url: http://mrdu.me/cards
+subscribe: http://mrdu.me/cards/feed
 exclude: [ README.md, newpost.rb ]
 domain: mrdu.me
 author: metaldudu
