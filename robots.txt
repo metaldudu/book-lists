@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://card.mrdu.me/sitemap.xml

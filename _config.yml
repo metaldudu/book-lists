@@ -1,0 +1,12 @@
+markdown: kramdown
+permalink: /:year/:month/:title 
+title: 读写卡片
+url: http://card.mrdu.me
+subscribe: http://www.mesule.com/feed
+exclude: [ README.md, newpost.rb ]
+domain: mrdu.me
+author: metaldudu
+email: metaldudu@gmail.com
+twitterID: metaldudu
+disqusShortname: metaldudu
+safe: true
