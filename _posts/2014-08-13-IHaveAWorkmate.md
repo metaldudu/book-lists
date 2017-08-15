@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: 我有一个同事
+title: 《我有一个同事》
 tags: 
 ---
 
-豆瓣地址：[我有一个同事](https://book.douban.com/subject/19995876/)，性科普专栏文章集。
+豆瓣地址：[《我有一个同事》](https://book.douban.com/subject/19995876/)，性科普专栏文章集。
 
 ### 摘录
 
