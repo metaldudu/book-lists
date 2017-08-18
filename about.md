@@ -13,7 +13,7 @@ permalink: /about/
 ### 内容
 
 - blog：[mrdu.me](http://mrdu.me/)
-- 读写卡片： [card.mrdu.me](http://card.mrdu.me/)
+- 读写卡片： [mrdu.me/cards](http://mrdu.me/cards)
 
 ### 链接
 
