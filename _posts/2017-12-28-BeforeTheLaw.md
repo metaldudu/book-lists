@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 卡夫卡《法律门前》
-tags: 卡夫卡
+tags: 短篇小说, 卡夫卡
 ---
 
 短篇小说 Before the law，来自卡夫卡未完成的小说《审判》。

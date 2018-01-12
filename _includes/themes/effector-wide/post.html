@@ -2,7 +2,7 @@
 <article>
 <div>
 {% for tag in page.tags %}
-    <a class="label pull-right" href="/tag/#{{ tag }}">{{ tag }}</a>
+    <a class="label pull-right" href="{{ site.url }}/tag/#{{ tag }}">{{ tag }}</a>
 {% endfor %}
 </div>
 
