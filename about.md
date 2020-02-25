@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-有关读写的卡片记录。
+摘录卡片
 
 ### ChangeLog
 

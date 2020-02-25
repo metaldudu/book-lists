@@ -1,6 +1,6 @@
 markdown: kramdown
-permalink: /:year/:title 
-title: 读写卡片
+permalink: /:title 
+title: 摘录卡片
 url: https://mrdu.me/cards
 subscribe: https://mrdu.me/cards/feed
 exclude: [ README.md, newpost.rb ]
