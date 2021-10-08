@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-摘录卡片
+文摘
 
 ### ChangeLog
 

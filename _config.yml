@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /:title 
-title: 摘录卡片
-url: https://mrdu.me/cards
-subscribe: https://mrdu.me/cards/feed
+title: 文摘
+url: https://metaldudu.github.io/txt
+subscribe: https://metaldudu.github.io/txt/feed
 exclude: [ README.md, newpost.rb ]
 domain: mrdu.me
 author: metaldudu
