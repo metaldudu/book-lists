@@ -1,6 +1,6 @@
 ## 简介
 
-本站使用陈素封的 [http://www.mesule.com](http://www.mesule.com) 模板搭建。
+本站使用陈素封的 http://www.mesule.com 模板搭建。
 
 ## 版权
 

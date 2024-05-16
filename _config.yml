@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:title 
-title: 书单
+title: 一些书单
 url: https://metaldudu.github.io/book-lists
 subscribe: https://metaldudu.github.io/book-lists/feed
 exclude: [ README.md, newpost.rb ]
