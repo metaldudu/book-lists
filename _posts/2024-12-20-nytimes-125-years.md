@@ -5,7 +5,6 @@
 3. 《1984》，作者：乔治·奥威尔(George Orwell)
 4. 《百年孤独》(One Hundred Years of Solitude)，作者：加西亚·马尔克斯(Gabriel García Márquez)
 5. 《宠儿》(Beloved)，作者：托妮·莫里森(Toni Morrison)
-
 - 《所有我们看不见的光》(All the Light We Cannot See)，作者：安东尼·多尔(Anthony Doerr)
 - 《第二十二条军规》(Catch-22)，作者：约瑟夫·海勒(Joseph Heller)
 - 《麦田里的守望者》(The Catcher in the Rye)，作者：J·D·塞林格(J.D. Salinger)
